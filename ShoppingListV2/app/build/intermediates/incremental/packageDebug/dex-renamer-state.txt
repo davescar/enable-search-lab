@@ -1,0 +1,7 @@
+#Thu Oct 27 19:55:31 EDT 2016
+base.0=/Users/ds/adi stuff/W4_Labs/enable-search-lab/ShoppingListV2/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_eb3fa0c6959482eec559a02ccb5e0a3168f1a209
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/ds/adi stuff/W4_Labs/enable-search-lab/ShoppingListV2/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_47b452890917ebe7cf45f3ed9e68242929aec605/classes.dex
+base.1=/Users/ds/adi stuff/W4_Labs/enable-search-lab/ShoppingListV2/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_47b452890917ebe7cf45f3ed9e68242929aec605
+file.0=/Users/ds/adi stuff/W4_Labs/enable-search-lab/ShoppingListV2/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_eb3fa0c6959482eec559a02ccb5e0a3168f1a209/classes.dex
